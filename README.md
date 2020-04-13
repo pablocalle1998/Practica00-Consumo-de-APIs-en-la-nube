@@ -14,7 +14,7 @@
     gráfica de usuario.
 
 ###  Actividades a desarrollar
- 1. **Identificar gráficamente la arquitectura y el patrón de diseño de la aplicación a desarrollar.**
+ 1. ### **Identificar gráficamente la arquitectura y el patrón de diseño de la aplicación a desarrollar.**
     ![Estructura](https://github.com/pablocalle1998/Practica00-Consumo-de-APIs-en-la-nube/blob/master/imagenes/arquitectura.png)
     ## Arquitectura API:
       Es un modelo en el cual expone datos backend y funcionalidades de aplicaciones para usarse en nuevas aplicaciones, en esto la aplicación seria el crear un buscador de películas haciendo uso de la API obtenida en OMDB.com. 
