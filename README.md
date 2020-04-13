@@ -16,6 +16,7 @@
 ###  Actividades a desarrollar
 ### 1. Identificar gráficamente la arquitectura y el patrón de diseño de la aplicación a desarrollar.
     ![Estructura](arquitectura.png)
+
     ## Arquitectura API:
       Es un modelo en el cual expone datos backend y funcionalidades de aplicaciones para usarse en nuevas aplicaciones, en esto la aplicación seria el crear un buscador de películas haciendo uso de la API obtenida en OMDB.com. 
       
@@ -23,7 +24,7 @@
     ## Proceso:
     Para obtener esta llave API, se necesita dirigirse al sitio web http://www.omdbapi.com/ 
     Nos dirigimos a la sección “API KEY”
-    ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/api-1.png)
+    ![Estructura](arquitectura.png)
  3. Crear un repositorio en GitHub con el nombre “Practica00 – Consumo de APIs en la nube” 
  4. Desarrollar una aplicación con HTML + CSS + Javascript + Web Services para buscar películas y toda su
     información de la base de datos de OMDb.
