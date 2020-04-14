@@ -59,10 +59,10 @@ function buscarPorTitulo(){
           "<td><img src="+movie.Poster + "></td" +
           "<td></td>"+
           "<td>" + movie.Title + "</td>" +
-          "<td>" + movie.Year + "</td>" +
           "<td>" + movie.Type + "</td>" +
-          "<td><a href='#'  style='text-decoration:none'     onclick=\"buscarPorID('" + movie.imdbID + "')\">'<i class='fas fa-info-circle'></i>'</a>" +
-          "</tr>";     
+          "<td><a href='#'  style='text-decoration:none' onclick=\"buscarPorID('" + movie.imdbID + "')\">'<i class='fas fa-info-circle'></i>'</a>" +
+          
+          "<td>" + movie.Year + "</td>";     
 
           console.log(this.responseText);
 

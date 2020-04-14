@@ -66,14 +66,15 @@ img:hover {
   cursor: pointer;
 }
 table{
-  margin-left: 2cm;
+  margin-left: 0.5cm;
   text-align: center;
   border: 20px solid #000;
   padding: 20px;
-  width: 1000px;
+  width: 1250px;
   height: 500px;
   align-items: baseline;
   border-color: rgb(0, 0, 0);
+  font-size: 0.5cm;
   color: rgba(22, 159, 201, 0.719);
   
 }
