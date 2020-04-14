@@ -75,7 +75,7 @@
     ```
 
 
-    
+
     * También, la aplicación deberá presentar un máximo de 5 películas por búsqueda. Es decir, si la búsqueda
       retorna más de 5 películas se deberá paginar los resultados.
       ```
@@ -120,21 +120,24 @@
       
     * Por último, la interfaz gráfica de aplicada debe ser intuitiva y sencilla aplicando conceptos de experiencia
       de usuario (justificar en el informe).
-      ## Justificacion
+      ### **Justificacion**
       Para mi interfaz de usuario he optado por colores suaves, que inviten al usuario y que no sean agresivos ni que salten mucho a la vista. He decidido poner la barra de búsqueda al principio, a manera que esto sea lo primero que vea el usuario, que pueda saber el propósito de mi aplicación sin necesidad de una explicación previa. 
       Todos los componentes de mí se encuentran centralizados, de esta manera el usuario es presentado con la información de manera directa sin necesidad de cambiar el enfoque en su mirada. 
       Por ultimo en la sección del pie de página he elegido un tono cercano al blanco para que se mezcle con el fondo de la página, manteniéndolo al final y de manera organizada evitando ser invasivo. 
+
       ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/ui-principal.png)
       
-      ## Visualizar Resultados
+      ### **Visualizar Resultados**
       En esta parte he optado por un modelo a manera de cuadricula en la cual se presente de derecha a izquierda las cosas más importantes y que sean de interés para el usuario. 
       De esta manera el poster de la película se presenta primero, seguido del nombre de esta, para finalizar con un icono de información el cual permite al usuario acceder a información más a detalle de la película que sea de su interés, 
 
       ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/resultados.png)
 
-      ## "VER MÁS"
+      ### **"VER MÁS"**
       ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/ver%20mas.png)
       Se ha optado por un menú ‘Pop UP” el cual toma cierta porción de la interfaz gráfica, permitiendo presentar información más detallada de la película de interés y que esta pueda ser fácilmente visualizada por el usuario sin necesidad de estar recargando una nueva página para mostrar el contenido de una sola película. 
+
+      ##
  
  5.  Realizar varios commits en la herramienta GitHub que demuestren el desarrollo de la aplicación.
  6.  Generar el informe de la práctica con el desarrollo de cada uno de los puntos descritos anteriormente.
