@@ -66,11 +66,16 @@
         document.getElementById("informacion").innerHTML = detalles;
       }
 
+
+
     * Además, se deberá visualizar toda la información disponible (plot=full) de la base de datos de películas
     ```
     xmlhttp.open("GET", "https://www.omdbapi.com/?apikey=70833c90&s="+titulo +"&plot=full",true);
     xmlhttp.send();
     ```
+
+
+    
     * También, la aplicación deberá presentar un máximo de 5 películas por búsqueda. Es decir, si la búsqueda
       retorna más de 5 películas se deberá paginar los resultados.
       ```
