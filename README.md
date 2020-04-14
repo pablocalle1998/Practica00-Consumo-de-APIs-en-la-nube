@@ -43,6 +43,8 @@
     * La aplicación Web debe permitir buscar la información de las películas tanto por el nombre (listado) como
       por el código (id) de cada película. 
       ### **Proceso:**
+     
+      ```
       function buscarPorTitulo(){
       if(this.readyState == 4 && this.status == 200){
         data = JSON.parse(this.responseText)
