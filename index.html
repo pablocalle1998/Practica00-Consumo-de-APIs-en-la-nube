@@ -6,10 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script type="text/javascript" src="scripts.js"></script>
     <link href="style.css" rel="stylesheet">
+    <!--
+        
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600|Open+Sans" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">
+    
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
-
+-->
     <title>Manejo API OMDB</title>
     <br><br>
 </head>
@@ -17,7 +20,7 @@
     
     <div class = "ui main text container segment" id="container">
         <div class="ui large header" id="tituloPrincipal">
-            Buscar en base de datos
+            Consultar en la base
         </div><br><br>
         <form class="ui huge form" action="/results">
             <div class="field">
@@ -27,7 +30,7 @@
                 </div>
             </div>
     
-            <input type="button" class="searchButton" value="Buscar" onclick="buscarPorTitulo()"></input>
+            <input type="button" class="searchButton" value="Consultar" onclick="buscarPorTitulo()"></input>
         </form>
     </div>
     <br>
@@ -42,7 +45,7 @@
                                 <th class="titulosTablas" >Titulo</th>
                                 <th class="titulosTablas" >Año</th>
                                 <th class="titulosTablas" >Tipo</th>
-                                <th class="titulosTablas" >Detalles</th>
+                                <!--<th class="titulosTablas" >Detalles</th>-->
 
                             </tr>
                         </thead>
@@ -66,7 +69,7 @@
     </div>
      <div class="overlay" id="overlay">
 
-    <div class="popup" id="popup">
+    <!--<div class="popup" id="popup">
       <a href="#" id="btn-cerrar-popup" class="btn-cerrar-popup" onclick="cerrarPopup()"><i
           class="fas fa-times"></i></a>
       <h1 id="txtTitle"></h1>
@@ -83,7 +86,7 @@
         </p>
       </div>
 
-    </div>
+    </div>-->
   </div>
   <br>
   <br>

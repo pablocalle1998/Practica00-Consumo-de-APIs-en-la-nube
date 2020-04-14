@@ -1,18 +1,24 @@
 
 .cotainer {
-  
-  margin: 0 auto;
+  text-align:center;
+  margin: 0 auto ;
   font-weight: 300;
 
 }
 #container {
-  margin-top: 4.0em;
-  background-color: rgba(24, 181, 192, 0.692);
+  text-align: center;
+  margin-top: 0.1em;
+  margin-right: 22em;
+  margin-left: 22em;
+  background-color: rgba(22, 159, 201, 0.719);
+  border-radius: 50px;
 }
 
 
 #tituloPrincipal {
   color: black;
+  font-style: unset;
+  font-size: 1.1cm;
   transition: ease-in-out .25s;
   text-decoration: seashell;
   font: 600;
@@ -20,35 +26,38 @@
 
 body {
   text-align: center;
-  background-color: gray;
+  background-color: rgb(0, 0, 0);
   color: black;
 } 
 
 .titulosTablas {
-  color: black;
+  align-content: flex-end;
+  font-size: 1.1cm;
+  color: rgb(255, 255, 255);
 }
 .searchButton {
   cursor: pointer;
+  margin-top: 1cm;
   transition: 0.25s ease-in-out;
   width: 10;
-  height: 50px;
+  height: 40px;
   font-size: 20px;
-  color:white;
-  background-color: lightblue;
-  border-radius: 8px;
+  color:rgb(0, 0, 0);
+  background-color: rgb(30, 185, 69);
+  border-radius: 20px;
   outline: none;
 }
 
 .searchButton:hover {
-  color: black;
+  color: rgb(255, 251, 23);
 }
 
 img {
-  border: 2px solid black;
-  border-radius: 15px;
+  border: 2px solid rgb(26, 72, 131);
+  border-radius: 10px;
   opacity: 0.5;
   transition: 0.25s ease-in-out;
-  width: 125;
+  width: 150;
   height: 150px;
 }
 
@@ -57,30 +66,39 @@ img:hover {
   cursor: pointer;
 }
 table{
-  border: 1px solid #000;
-  padding: 2px;
-  width: 650px;
-  align-items: center;
-  border-color: #BDBDBD;
-  color: aqua;
-  animation-fill-mode: forwards;
+  margin-left: 2cm;
+  text-align: center;
+  border: 20px solid #000;
+  padding: 20px;
+  width: 1000px;
+  height: 500px;
+  align-items: baseline;
+  border-color: rgb(0, 0, 0);
+  color: rgba(22, 159, 201, 0.719);
+  
 }
+
+btn-atras{
+  size: 20cm;
+  
+}
+  /*
 .dat {
   color: aqua;
 }
 
 th, td {
   text-align: center;
-  border: 1px solid black;
+  border: 1px solid rgb(255, 255, 255);
   padding: 4px;
   border-color: black;
-  color: black;
+  color: rgb(255, 245, 245);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-
+/*
 .overlay {  
-  background: rgba(0,0,0,.3);
+  background: rgba(146, 15, 15, 0.3);
   position: fixed; 
   top: 0;
   bottom: 0;
@@ -97,7 +115,7 @@ th, td {
   
   
   .popup {
-  background-color: rgb(129, 154, 182);
+  background-color: rgb(223, 32, 32);
   box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
   border-radius: 3px;
   font-family: 'Montserrat', sans-serif;
@@ -111,17 +129,17 @@ th, td {
   }
   
   .popup .btn-cerrar-popup {
-  font-size: 16px;
+  font-size: 30px;
   line-height: 16px;
   display: block;
   text-align: right;
   transition: .3s ease all;
-  color: #BBBBBB;
+  color: rgb(255, 255, 255);
   
   }
   
   .popup .btn-cerrar-popup:hover {
-  color: #000;
+  color: rgb(255, 255, 255);
   } 
   
   .popup h1 {
@@ -155,6 +173,7 @@ th, td {
   .popup.active h3 { animation: entradaSubtitulo .8s ease .5s forwards; }
   .popup.active p { animation: entradaSubtitulo .8s ease .5s forwards; }
   
+  
   @keyframes entradaTitulo {
   from {
     opacity: 0;
@@ -178,6 +197,7 @@ th, td {
       opacity: 1;
     }
   }
+  */
 
   footer{
     clear: both;
@@ -186,6 +206,6 @@ th, td {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, .3);
+    background-color: rgba(138, 131, 131, 0.692);
     text-align: center;
   }
