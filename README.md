@@ -134,14 +134,22 @@
       ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/resultados.png)
 
       ### **"VER MÁS"**
-      ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/ver%20mas.png)
-      Se ha optado por un menú ‘Pop UP” el cual toma cierta porción de la interfaz gráfica, permitiendo presentar información más detallada de la película de interés y que esta pueda ser fácilmente visualizada por el usuario sin necesidad de estar recargando una nueva página para mostrar el contenido de una sola película. 
+         Se ha optado por un menú ‘Pop UP” el cual toma cierta porción de la interfaz gráfica, permitiendo presentar información más detallada de la película de interés y que esta pueda ser fácilmente visualizada por el usuario sin necesidad de estar recargando una nueva página para mostrar el contenido de una sola película. 
+
+          ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/ver%20mas.png)
+   
 
       ##
  
  5.  Realizar varios commits en la herramienta GitHub que demuestren el desarrollo de la aplicación.
+
+      ##
  6.  Generar el informe de la práctica con el desarrollo de cada uno de los puntos descritos anteriormente.
+
+      ##
  7.  En el archivo README del repositorio debe constar la misma información del informe de resultados de la práctica que se indica en el punto anterior. 
+
+      ##
  8.  Subir al AVAC el informe del proyecto en formato *.pdf. El informe debe contar con conclusiones apropiadas
       y la firma de cada estudiante
  ### RESULTADO(S) OBTENIDO(S):
