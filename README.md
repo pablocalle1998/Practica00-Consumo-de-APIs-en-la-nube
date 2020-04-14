@@ -26,6 +26,12 @@
       Para obtener esta llave API, se necesita dirigirse al sitio web http://www.omdbapi.com/ 
       Nos dirigimos a la sección “API KEY”
       ![Estructura](https://github.com/pablocalle1998/Practica00-Consumo-de-APIs-en-la-nube/blob/master/imagenes/2.png)
+
+      Llenamos la informacion solicitada y esperamos al correo de confirmacion (asegurarse por si se encuentra en la bandeja de correo no deseado)
+      ![Estructura](https://github.com/pablocalle1998/Practica00-Consumo-de-APIs-en-la-nube/blob/master/imagenes/3.png)
+      
+      En el correo de verificacion nos debera dar una clave para la API
+      ![Estructura](https://github.com/pablocalle1998/Practica00-Consumo-de-APIs-en-la-nube/blob/master/imagenes/4.png)
       
     ##
 
