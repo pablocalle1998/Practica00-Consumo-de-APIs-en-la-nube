@@ -39,12 +39,10 @@
 
  4. ### **Desarrollar una aplicación con HTML + CSS + Javascript + Web Services para buscar películas y toda su información de la base de datos de OMDb.**
 
-    Requisitos:
+    ### Requisitos:
     * La aplicación Web debe permitir buscar la información de las películas tanto por el nombre (listado) como
       por el código (id) de cada película. 
-      ##Proceso:
-      ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/api-2.png)
-      ```
+      ### **Proceso:**
       function buscarPorTitulo(){
       if(this.readyState == 4 && this.status == 200){
         data = JSON.parse(this.responseText)
