@@ -138,7 +138,7 @@
       ### **"VER MÁS"**
          Se ha optado por un menú ‘Pop UP” el cual toma cierta porción de la interfaz gráfica, permitiendo presentar información más detallada de la película de interés y que esta pueda ser fácilmente visualizada por el usuario sin necesidad de estar recargando una nueva página para mostrar el contenido de una sola película. 
 
-          ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/ver mas.png)
+          ![Estructura](https://github.com/aReinoso007/Practica00-Consumo-de-APis-en-la-nube/blob/master/Consumo%20de%20Apis/imagenes/ver_mas.png)
    
 
       ##
